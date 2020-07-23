@@ -1,2 +1,2 @@
-# Pemograman_Phyton
+# Pemograman_Python
 Dasar Phyton
